@@ -1,6 +1,6 @@
 # Tuto-Git
 
 # Les fichiers ont trois états dans git: 
- - Modifié (modified)
- - Indexé (staged)
- - Validé (commited)
+ - Modifié (modified) en modifiant simplement un fichier
+ - Indexé (staged) avec "git add"
+ - Validé (commited) avec "git commit"
